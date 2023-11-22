@@ -4,13 +4,34 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Pré-requisitos
 
-A few resources to get you started if this is your first Flutter project:
+Certifique-se de ter o Flutter instalado em sua máquina. Se ainda não tiver, você pode seguir as instruções de instalação na [documentação oficial do Flutter](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como Executar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone o repositório para sua máquina local:
+
+    ```bash
+    git clone https://github.com/seunome/seurepositorio.git
+    ```
+
+2. Navegue até o diretório do projeto:
+
+    ```bash
+    cd nome-do-projeto
+    ```
+
+3. Obtenha as dependências do projeto:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Execute o aplicativo Flutter:
+
+    ```bash
+    flutter run
+    ```
+
+    Isso abrirá o aplicativo no seu emulador ou dispositivo conectado.

@@ -13,7 +13,7 @@ Certifique-se de ter o Flutter instalado em sua máquina. Se ainda não tiver, v
 1. Clone o repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/seunome/seurepositorio.git
+    git clone https://github.com/alexsonalmeida/escribo-estate-livros
     ```
 
 2. Navegue até o diretório do projeto:
@@ -28,10 +28,15 @@ Certifique-se de ter o Flutter instalado em sua máquina. Se ainda não tiver, v
     flutter pub get
     ```
 
-4. Execute o aplicativo Flutter:
+4. Abra o projeto na sua IDE favorita. Abra a sua IDE e navegue até o projeto ou, se já tiver um configurada, digite:
+    ```bash
+    code .
+    ```
+    
+5. Inicie o seu emulador manualmente e espere a IDE reconhecê-lo ou inicie a partir da sua IDE. Alternativamente, também é possível conectar seu smartphone e ativar a depuração USB.
+
+6. Execute o aplicativo :
 
     ```bash
     flutter run
     ```
-
-    Isso abrirá o aplicativo no seu emulador ou dispositivo conectado.
